@@ -3,10 +3,9 @@
 
 ---
 
-## 🐍 Github Snake Animation (Grey Version)
+## 🐍 Github Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ron-it/ron-it/output/github-contribution-grid-snake-grey.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ron-it/ron-it/output/github-contribution-grid-snake-grey.svg" />
-  <img alt="Snake animation showing contribution graph in grey theme" src="https://raw.githubusercontent.com/Ron-it/ron-it/output/github-contribution-grid-snake-grey.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ron-it/ron-it/output/github-snake-dark.svg" />
+  <img alt="Snake animation showing contribution graph" src="https://raw.githubusercontent.com/Ron-it/ron-it/output/github-snake.svg" />
 </picture>
